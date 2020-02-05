@@ -155,7 +155,7 @@ mobileMenu: function (){
 typeStyle: function() {
 	var win = jQuery(window),
 	foo = jQuery('#typer');
-	foo.typer(['Psicóloga','Coaching', 'Terapeuta' ]);           
+	foo.typer(['Psicóloga','Coaching', 'Terapeuta', 'Mamá', 'Amiga' ]);           
 	win.resize(function(){
 		var fontSize = Math.max(Math.min(win.width() / (1 * 10), parseFloat(Number.POSITIVE_INFINITY)), parseFloat(Number.NEGATIVE_INFINITY));
 
