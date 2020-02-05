@@ -49,7 +49,7 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #2f2f2f;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.8;
 	overflow-x: hidden;
 	background-color: #fff;
@@ -133,12 +133,13 @@ h6 {
 }
 .title-head {
 	font-family: 'Karla', sans-serif;
-	font-size: 40px;
+	font-size: 50px;
 	font-style: bold;
 }
 .section-title p {
-	font-size: 16px;
-	color: #888484;
+	font-family: 'Karla', sans-serif;
+	font-size: 18px;
+	color: #333;
 }
 .wall-btn button {
 	border: none;
@@ -620,6 +621,15 @@ End  of what offer section [*5]
 /*-----------------------------------------------------------------------
 Start of inspiration section [*6]
 -------------------------------------------------------------------------*/
+.inspiration-section {
+	background-color: #f4f4f4;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-image: url(../img/banner/banner-3.jpg);
+	background-size: cover;
+}
+
+
 .item-wrap img {
 	width: 100%;
 }
@@ -768,6 +778,10 @@ Start of Hire section and resume section[*7]
 -------------------------------------------------------------------------*/
 .hire-section {
 	background-color: #f4f4f4;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-image: url(../img/banner/banner-2.jpg);
+	background-size: cover;
 }
 .hire-section .section-title p {
 	font-size: 18px;
