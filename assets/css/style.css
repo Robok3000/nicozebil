@@ -307,6 +307,7 @@ Start of banner section [*3]
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-image: url(../img/banner/banner-1.jpg);
+	background-size: cover;
 }
 .banner-head {
 	font-size: 50px;
