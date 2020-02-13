@@ -1001,6 +1001,11 @@ Start of get in touch section [*10]
 .get-in-touch-section .section-padding {
 	padding-top: 0;
 	padding-bottom: 80px;
+	background-color: #f4f4f4;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-image: url(../img/banner/banner-4.jpg);
+	background-size: cover;
 }
 .get-in-touch-contact .contact-area-form input,
 .comment-form  .contact-area-form input {
